@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+:root
+.container{
+    /* background-color: #E3E6E3; */
+    width: 300px;
+    margin: 40px auto;
+    box-sizing: border-box;
+   
+
+}
+.card{
+    box-sizing: border-box;
+    box-shadow: black 5px 10px 15px;
+}
+.header{
+    text-align: center;
+}
+input{
+    box-sizing: border-box;
+    width: 300px;
+    height: 80px;
+    text-align: right;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.button{
+    /* overflow: hidden; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 0px;
+    font-weight: 900;
+    font-weight: bold;
+
+}
+button{
+    width: 75px;
+    height: 75px;
+    float: left;
+}
+.btn1{
+    /* padding: 26px 30.689px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+    
+}
+.btn1:hover{background-color: rgb(86, 83, 235);
+}
+
+
+.btn2{
+    /* padding: 26px 23.72px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+
+}
+.btn2:hover{background-color: rgb(86, 83, 235);
+}
+.btn3{
+    /* padding: 26px 27.69px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn3:hover{background-color: rgb(86, 83, 235);
+}
+.btn4{
+    /* padding:26px 32.44px; */
+    color: white;
+    background-color: rgb(175, 41, 182);
+    font-size: 16px;
+}
+.btn4:hover{background-color: rgb(86, 83, 235);
+}
+.btn5{
+    /* padding:26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+
+.btn5:hover{background-color: rgb(86, 83, 235);
+}
+.btn6{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn6:hover{background-color: rgb(86, 83, 235);
+}
+.btn7{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn7:hover{background-color: rgb(86, 83, 235);
+}
+.btn8{
+    /* padding:26px 31.12px; */
+    color: white;
+    background-color: rgb(175, 41, 182);
+    font-size: 16px;
+}
+.btn8:hover{background-color: rgb(86, 83, 235);
+}
+.btn9{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+
+.btn9:hover{background-color: rgb(86, 83, 235);
+}
+.btn10{
+    /* padding:26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn10:hover{background-color: rgb(86, 83, 235);
+}
+.btn11{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn11:hover{background-color: rgb(86, 83, 235);
+}
+.btn12{
+    /* padding:26px 32.5916px; */
+    color: white;
+    background-color:  rgb(175, 41, 182);
+    font-size: 16px;
+}
+.btn12:hover{background-color: rgb(86, 83, 235);
+}
+.btn13{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn13:hover{background-color: rgb(86, 83, 235);
+}
+.btn14{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn14:hover{background-color: rgb(86, 83, 235);
+}.btn15{
+    /* padding: 26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn15:hover{background-color: rgb(86, 83, 235);
+}
+.btn16{
+    /* padding: 26px 29.67px; */
+    color: white;
+    background-color:  rgb(175, 41, 182);
+    font-size: 16px;
+}
+.btn16:hover{background-color: rgb(86, 83, 235);
+}
+.btn17{
+    /* padding:26px 31.13px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn17:hover{background-color: rgb(86, 83, 235);
+}
+.btn18{
+    /* padding: 26px 33.074px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn18:hover{background-color: rgb(86, 83, 235);
+}
+.btn19{
+    /* padding: 26px 21.6px; */
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.btn19:hover{background-color: rgb(86, 83, 235);
+}
+.btn20{
+    /* padding:26px 29.69px; */
+    color: white;
+    background-color: rgb(219, 183, 21);
+    font-size: 16px;
+}
+.btn20:hover{background-color: rgb(86, 83, 235);
+}
